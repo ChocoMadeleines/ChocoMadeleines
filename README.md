@@ -1,3 +1,3 @@
 <p align="center">
-    <img src="src/res/img/Header.png">
+    <img src="src/res/img/Header.svg">
 </p>
