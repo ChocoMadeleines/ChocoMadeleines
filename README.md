@@ -9,8 +9,8 @@
 <h1 align="center">🐈‍⬛ About myself:</h1>
 <p align="center">
     Self-taught developer, High-school student, living in France,<br>
-    Computers are my passion since I'm young, I also enjoy art.<br>
-    I treat web development and UI/UX design, as a form of art.<br>
+    Computers are my passion since I'm young, I also enjoy art,<br>
+    I treat web development and UI/UX design, as a form of art,<br>
     I like to experiment, I try to make my creations unique.
 </p>
 
