@@ -11,7 +11,7 @@
     Self-taught developer, High-school student, living in France,<br>
     Computers are my passion ever since I was young, I also enjoy art,<br>
     I treat web development and UI/UX design, as a form of art,<br>
-    I like to experiment, I try to make my creations unique.
+    I like to experiment, I like to make my creations unique.
 </p>
 
 <h3 align="center">🖌️ Tools/Languages I use:</h3>
@@ -21,16 +21,15 @@
 
 <h3 align="center">📖 Currently learning:</h3>
 <p align="center">
-    C, GLSL.
+    C, GLSL, German language 🇩🇪.
 </p>
 
 <br>
 
 <h1 align="center">✉️ How to contact me:</h1>
 <p align="center">
-    You cannot, at the moment.<br>
-    I don't own any public E-Mail address or social media account.
+    You can send me E-Mails: <a href="mailto:chocomadeleines@proton.me">chocomadeleines@proton.me</a>
 </p>
 
 <br>
-<h6 align="center">meow~ :3</h6>
+<h6 align="center">miao~ 🐈‍⬛ :3</h6>
