@@ -32,4 +32,4 @@
 </p>
 
 <br>
-<h6 align="center">miao~ 🐈‍⬛ :3</h6>
+<h6 align="center">miao~ 🐈‍⬛</h6>
