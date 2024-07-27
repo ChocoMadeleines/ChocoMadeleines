@@ -21,7 +21,7 @@
 
 <h3 align="center">📖 Currently learning:</h3>
 <p align="center">
-    C, GLSL, German language 🇩🇪.
+    C, GLSL
 </p>
 
 <br>
